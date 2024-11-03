@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:fresh_mart/widgets/grocery_list.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(const MyApp()); 
 }
 
 class MyApp extends StatelessWidget {
