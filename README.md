@@ -1,16 +1,3 @@
-# fresh_mart
+# Fresh Mart 🍎🍞🍇
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Fresh Mart is a user-friendly **E-Commerce Mobile App** that enables users to conveniently order food and grocery items. Built using **Flutter** and powered by **Firebase Realtime Database**, Fresh Mart offers seamless navigation, a variety of categories, and a smooth checkout process.
